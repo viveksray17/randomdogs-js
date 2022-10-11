@@ -1,0 +1,3 @@
+create a function named NewDog
+which fetches the url https://dog.ceo/api/breeds/image/random
+and sets the dogimage src to the message it gets
